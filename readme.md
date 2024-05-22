@@ -20,3 +20,46 @@
 11. Deploy the smart contract on the Fuji test network by running the `npx hardhat run scripts/deploy.ts --network fuji` command
   Move the `/artifacts/contracts/AVAXGods.json` file to the `/contract` folder on the frontend
   Copy the address of the deployed contract from the terminal and paste it into the `/contract/index.js` file of the frontend application
+
+AvaxGods: Web3 Battle-Style Online Multiplayer Card Game
+
+<b>Overview
+
+AvaxGods is a revolutionary Web3 battle-style online multiplayer card game built on the Avalanche platform. This game combines interactive gameplay, smart wallet pairing, and real-time battles, showcasing the potential of Web3 technology.
+
+<b>Features
+
+- Interactive gameplay with real-time battles
+- Smart wallet pairing for secure and seamless transactions
+- Built on the Avalanche platform for fast and low-cost transactions
+- Decentralized application (dApp) for a community-driven experience
+
+<b>Technical Requirements
+
+- React.js for frontend development
+- Avalanche platform for blockchain interactions
+- Solidity for smart contract development
+- Web3.js for blockchain integration
+
+<b>Getting Started
+
+1. Clone the repository and install dependencies with npm install
+2. Set up your development environment with Avalanche and MetaMask
+3. Follow the tutorial instructions to build and deploy your own AvaxGods game
+
+<b>Resources
+
+- Avalanche Documentation: (link unavailable)
+- JS Mastery Pro: (link unavailable)
+- GitHub Code: (link unavailable)
+- Starter Code: (link unavailable)
+- GitHub Gist Code Snippets: (link unavailable)
+
+<b>License
+
+This project is licensed under the MIT License. See LICENSE for details.
+
+<b>Acknowledgments
+
+Special thanks to Avalanche and JS Mastery for their support and collaboration on this project.
+
